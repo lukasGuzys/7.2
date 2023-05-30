@@ -1,0 +1,31 @@
+{
+  "name": "7.2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "prettier": "^2.8.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasGuzys/7.2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lukasGuzys/7.2/issues"
+  },
+  "homepage": "https://github.com/lukasGuzys/7.2#readme",
+  "description": ""
+}
